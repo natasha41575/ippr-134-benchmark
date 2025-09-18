@@ -1,0 +1,31 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: spring-petclinic-rest
+  labels:
+    app: spring-petclinic-rest
+spec:
+  containers:
+    - name: petclinic-rest-api
+      image: spring-petclinic/spring-petclinic-rest
+      ports:
+        - containerPort: 9966 
+      resources:
+        limits:
+          memory: "2Gi"
+          cpu: "1000m"
+        requests:
+          memory: "2Gi"
+          cpu: "1000m"
+      livenessProbe:
+        httpGet:
+          path: /actuator/health/liveness
+          port: 9966
+        initialDelaySeconds: 45
+        periodSeconds: 15
+      readinessProbe:
+        httpGet:
+          path: /actuator/health/readiness
+          port: 9966
+        initialDelaySeconds: 30
+        periodSeconds: 10
