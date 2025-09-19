@@ -8,6 +8,11 @@ spec:
   containers:
     - name: petclinic-rest-api
       image: springcommunity/spring-petclinic-rest
+      resizePolicy:
+      - resourceName: "cpu"
+        restartPolicy: "RestartContainer"
+      - resourceName: "memory"
+        restartPolicy: "RestartContainer"
       ports:
         - containerPort: 9966 
       resources:

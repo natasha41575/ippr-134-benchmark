@@ -1,0 +1,1152 @@
+increasing CPU 1000m -> 1150m
+pod/spring-petclinic-rest patched
+waiting for resize to succeed
+Waiting for container 'petclinic-rest-api' in pod 'spring-petclinic-rest' to have CPU request of ''...
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:32 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:32 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:32 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:32 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:32 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:32 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:33 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:33 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:33 PM UTC 2025
+SUCCESS: Container resources are updated.
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1150m
+---------------------------------------------------------
+Watch finished for spring-petclinic-rest.
+upscale resize succeeded after 811 ms
+decreasing CPU 1150m -> 1000m
+pod/spring-petclinic-rest patched
+waiting for resize to succeed
+Waiting for container 'petclinic-rest-api' in pod 'spring-petclinic-rest' to have CPU request of ''...
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:33 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:33 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:33 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:33 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:33 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:33 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:33 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:33 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:34 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:35 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:35 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:35 PM UTC 2025
+SUCCESS: Container resources are updated.
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1
+---------------------------------------------------------
+Watch finished for spring-petclinic-rest.
+downscale resize succeeded after 1923 ms
+increasing CPU 1000m -> 1150m
+pod/spring-petclinic-rest patched
+waiting for resize to succeed
+Waiting for container 'petclinic-rest-api' in pod 'spring-petclinic-rest' to have CPU request of ''...
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:35 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:35 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:35 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:35 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:35 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:35 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:35 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:36 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:36 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:36 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:36 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:36 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:36 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:36 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:36 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:36 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:36 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:36 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:37 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:37 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:37 PM UTC 2025
+SUCCESS: Container resources are updated.
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1150m
+---------------------------------------------------------
+Watch finished for spring-petclinic-rest.
+upscale resize succeeded after 1834 ms
+decreasing CPU 1150m -> 1000m
+pod/spring-petclinic-rest patched
+waiting for resize to succeed
+Waiting for container 'petclinic-rest-api' in pod 'spring-petclinic-rest' to have CPU request of ''...
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:37 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:37 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:37 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:37 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:37 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:37 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:37 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:37 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:38 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:39 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:39 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:39 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:39 PM UTC 2025
+SUCCESS: Container resources are updated.
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1
+---------------------------------------------------------
+Watch finished for spring-petclinic-rest.
+downscale resize succeeded after 1969 ms
+increasing CPU 1000m -> 1150m
+pod/spring-petclinic-rest patched
+waiting for resize to succeed
+Waiting for container 'petclinic-rest-api' in pod 'spring-petclinic-rest' to have CPU request of ''...
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:39 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:39 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:39 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:39 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:39 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:39 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:39 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:40 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:41 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:41 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:41 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1 (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1150m'.
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:41 PM UTC 2025
+SUCCESS: Container resources are updated.
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1150m
+Actual CPU:   1150m
+---------------------------------------------------------
+Watch finished for spring-petclinic-rest.
+upscale resize succeeded after 1876 ms
+decreasing CPU 1150m -> 1000m
+pod/spring-petclinic-rest patched
+waiting for resize to succeed
+Waiting for container 'petclinic-rest-api' in pod 'spring-petclinic-rest' to have CPU request of ''...
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:41 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:41 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:41 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:41 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:41 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:41 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:41 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:42 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:43 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:43 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+Press [Ctrl+C] to stop...
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:43 PM UTC 2025
+STATUS: Waiting for resource update...
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1150m (Waiting...)
+Watching pod 'spring-petclinic-rest' for container 'petclinic-rest-api' to have CPU request of '1'.
+---------------------------------------------------------
+Current Time: Thu Sep 18 08:46:43 PM UTC 2025
+SUCCESS: Container resources are updated.
+Pod: spring-petclinic-rest
+Container: petclinic-rest-api
+Expected CPU: 1
+Actual CPU:   1
+---------------------------------------------------------
+Watch finished for spring-petclinic-rest.
+downscale resize succeeded after 1839 ms
